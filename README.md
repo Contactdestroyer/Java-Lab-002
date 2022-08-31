@@ -30,9 +30,10 @@ Take note of the various variables and their data types. Write a brief summary i
 * Variable name
 * Its data type
 * and example values you can assign them.
-
+* --The Variable 'people' is the data type int(integer). This means that it can store all real whole numbers such as 1, 2, 6, 102, and -17.
 Next give TWO example variable names and TWO example variable assignments that are *WRONG* and explain why.
 * Hint: your IDE can help you discover these!
+* --String priceless and float ticketPrice. First, String priceless is pointless as it just defines priceless as "priceless". And second, float ticketPrice uses float instead of double which is more efficient.
 
 ### Part 3 - Bonus: Play around with Java String Format Specifiers.
 
